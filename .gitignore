@@ -1,0 +1,11 @@
+
+# Large model files
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# Checkpoints
+checkpoint-*/
+results/
