@@ -9,3 +9,5 @@
 # Checkpoints
 checkpoint-*/
 results/
+glove_data/
+training_checkpoints/
