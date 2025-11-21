@@ -5,6 +5,7 @@
 *.pth
 *.bin
 *.ckpt
+.env
 
 # Checkpoints
 checkpoint-*/
